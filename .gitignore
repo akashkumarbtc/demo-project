@@ -1,0 +1,10 @@
+__pycache__/
+**/migrations/*
+**/__pycache__/*
+
+.env
+static/
+media/
+venv/
+db.sqlite3
+test.xlsx
